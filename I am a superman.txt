@@ -5,20 +5,5 @@ using namespace std;
 
 int main(void)
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-	while(1)
-	{
-		
-	}
-=======
 
->>>>>>> parent of 160cb8b... 003
-	stsyem("PAUSE");
-	return 9;
-
-=======
-	
-	return 1;
->>>>>>> parent of 0a9c595... 002
 }
