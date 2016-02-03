@@ -8,7 +8,7 @@ int main(void)
 	nop;
 	while(1)
 	{
-		
+		cout << "Hello World!" << endl; 
 	}
 	stsyem("PAUSE");
 	return 9;
